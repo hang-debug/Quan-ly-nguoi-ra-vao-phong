@@ -72,6 +72,10 @@ CHAT_ID = "YOUR_CHAT_ID"
 
 Hệ thống lưu thông tin người ra vào vào file csv. 
 
+Poster của nhóm 
+<img width="596" alt="Screenshot 2025-03-20 at 01 01 50" src="https://github.com/user-attachments/assets/a89ab7bb-8391-4117-bed5-527367743f6b" />
+
+
 🤝 Đóng góp
 
 Dự án được phát triển bởi nhóm 1:
