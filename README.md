@@ -35,13 +35,14 @@ App Telegram
 🚀 Hướng dẫn cài đặt và chạy
 1. Cài đặt thư viện
 Yêu cầu Python 3.7+
-Cài đặt các thư viện:
 
+Cài đặt các thư viện:
 pip install các thư viện tôi gửi phía trên 
+
 2.Lấy địa chỉ IP,port,username,passord của cam
 Kết nối cam với chương trình qua rtsp_url = "rtsp://username:password@ip_address:port/stream"
 
-2. Tạo môi trường ảo (tùy chọn)
+3. Tạo môi trường ảo (tùy chọn)
 
 python -m venv venv
 source venv/bin/activate  # Trên macOS/Linux
